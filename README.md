@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ichunichu
 - 👀 I’m interested in python and web developpement 
-- 🌱 I’m currently learning css and javascript
-- 💞️ I’m looking to collaborate on IDK
+- 🌱 I’m currently learning php and Web Tech
 - 📫 How to reach me ichoupette@ik.me
 
 <!---
