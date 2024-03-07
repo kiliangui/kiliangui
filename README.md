@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kilian</h1>
 <h3 align="center">A passionate french FullStack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiliangui" alt="kiliangui" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kiliangui" target="blank"><img src="https://img.shields.io/twitter/follow/kiliangui?logo=twitter&style=for-the-badge" alt="kiliangui" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [kiliangui.fr](kiliangui.fr) 🚧 Rebuilding in progress 🚧
 
 <h3 align="left">Connect with me:</h3>
