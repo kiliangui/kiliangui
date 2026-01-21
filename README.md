@@ -30,7 +30,7 @@ Figma • Chart.js • Selenium • Postman
 I enjoy exchanging ideas with fellow developers and sharing discoveries!
 
 - [LinkedIn](https://linkedin.com/in/kiliangui)
-- [Threads](https://www.threads.net/@kiliangui_)
+- [Twitter](https://x.com/kiliangui)
 
 ---
 
